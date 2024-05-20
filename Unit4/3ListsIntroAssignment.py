@@ -10,16 +10,16 @@
 #         number_list.insert(index, number)
 #         print(number_list)
 # ========== 4.3.2 ==========
-# list = []
-# item = int(input("How many items "))
-# total = 0
-# while True:
-#     i1 = int(input("item")) 
-#     list.append(i1)
-#     total += 1
-#     if total == item:
-#         break
-# print(list)
+list = []
+item = int(input("How many items "))
+total = 0
+while True:
+    i1 = int(input("item")) 
+    list.append(i1)
+    total += 1
+    if total == item:
+        break
+print(list)
 # ========== 4.3.3 ==========
 # list3 = []
 # total = 1
